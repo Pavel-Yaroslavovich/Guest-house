@@ -1,0 +1,56 @@
+.places {
+  box-sizing: border-box;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background: #faf8f0;
+}
+
+.container {
+  font-family: "Montserrat";
+  position: relative;
+  color: #52503b;
+}
+
+.line {
+  position: absolute;
+  left: 48%;
+  width: 42px;
+  height: 8px;
+  margin: 0;
+  border-radius: 0px;
+  background: #e08631;
+}
+
+.title {
+  display: inline-block;
+  width: 533px;
+  margin-top: 37px;
+  margin-bottom: 12px;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 36px;
+}
+
+.text {
+  width: 514px;
+  margin: 0 auto;
+  margin-bottom: 18px;
+}
+
+.contact {
+  display: inline-block;
+  margin-right: 20px;
+  padding: 16px 26px;
+  text-decoration: none;
+  border-radius: 6px;
+  border: 4px solid #52503b;
+  color: #52503b;
+}
+
+.bookNow {
+  text-decoration: none;
+  padding: 16px 26px;
+  border-radius: 6px;
+  background: #52503b;
+  color: #ffffff;
+}

@@ -1,0 +1,80 @@
+.comeTogether {
+  box-sizing: border-box;
+  width: 1440px;
+  height: 366px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  font-family: "Montserrat";
+  width: 1168px;
+  height: 166px;
+  margin: 0 auto;
+}
+
+.titleText {
+  position: relative;
+  text-align: left;
+  width: 552px;
+}
+
+.line {
+  position: absolute;
+  top: 0;
+  left: 0%;
+  width: 42px;
+  height: 8px;
+  margin: 0;
+  border-radius: 0px;
+  background: #e08631;
+}
+
+.title {
+  margin-top: 37px;
+  margin-bottom: 12px;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 36px;
+  color: #52503b;
+}
+
+.text {
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 24px;
+  color: #52503b;
+}
+
+.enumeration {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 552px;
+}
+
+.enumerationBlock {
+  display: flex;
+  text-align: left;
+  margin-right: 32px;
+  max-width: 260px;
+}
+
+.enumerationBlock:nth-child(2n) {
+  margin-right: 0;
+}
+
+.img {
+  width: 34px;
+  height: 36px;
+}
+
+.enumerationText {
+  margin-top: 0px;
+  margin-left: 16px;
+  margin-bottom: 0px;
+  font-size: 14px;
+  line-height: 20px;
+  color: #333333;
+}

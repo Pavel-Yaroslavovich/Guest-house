@@ -1,0 +1,28 @@
+.guestHouse {
+  position: relative;
+  box-sizing: border-box;
+  max-width: 1440px;
+  height: 558px;
+  padding-top: 140px;
+  background: #fff;
+}
+
+.line {
+  position: absolute;
+  top: 15%;
+  left: 49%;
+  width: 42px;
+  height: 8px;
+  margin: 0;
+  border-radius: 0px;
+  background: #e08631;
+}
+
+.title {
+  font-family: "Montserrat";
+  margin: 0 auto;
+  max-width: 1287px;
+  font-size: 96px;
+  line-height: 96px;
+  color: #52503b;
+}

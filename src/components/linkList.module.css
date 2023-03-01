@@ -1,0 +1,25 @@
+.list {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  padding-left: 0;
+  min-width: 253px;
+  margin: 20px 0;
+}
+
+.link {
+  cursor: pointer;
+  text-decoration: none;
+  font-family: "Montserrat";
+  font-size: 14px;
+  line-height: 20px;
+  transition: all 0.5s ease;
+  color: #ffffff;
+}
+
+.link:hover {
+  color: #ffa000;
+  -webkit-text-shadow: 2px 2px 2px #000;
+  -moz-text-shadow: 2px 2px 2px #000;
+  text-shadow: 2px 2px 2px #000;
+}

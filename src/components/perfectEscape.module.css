@@ -1,0 +1,68 @@
+.perfectEscape {
+  position: relative;
+  padding: 100px 0;
+  font-family: "Montserrat";
+  text-align: left;
+  width: 1440px;
+  background: #fff;
+  color: #52503b;
+}
+
+.line {
+  position: absolute;
+  left: 9.5%;
+  width: 42px;
+  height: 8px;
+  margin: 0;
+  border-radius: 0px;
+  background: #e08631;
+}
+
+.title {
+  margin: 30px 0px 12px 136px;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 36px;
+}
+
+.loremIpsum {
+  max-width: 554px;
+  margin: 0px 0px 32px 136px;
+  line-height: 24px;
+}
+
+.blockPerfect {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 1168px;
+  height: 336px;
+  margin: 0 auto;
+}
+
+.blockList {
+  display: flex;
+  width: 567px;
+}
+
+.img {
+  width: 36px;
+  height: 36px;
+}
+
+.titleText {
+  font-family: "Montserrat";
+  font-size: 14px;
+  line-height: 20px;
+  margin-left: 16px;
+}
+
+.subtitle {
+  margin: 0;
+  color: #52503b;
+}
+
+.text {
+  margin: 0;
+  color: #333333;
+}
