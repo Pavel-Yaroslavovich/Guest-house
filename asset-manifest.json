@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/guest-house/static/css/main.a659b6a6.css",
+    "main.js": "/guest-house/static/js/main.0ba55bbc.js",
+    "static/media/landscapes.png": "/guest-house/static/media/landscapes.09fd2d18ca2e2578ea5a.png",
+    "static/media/table.png": "/guest-house/static/media/table.9d62f11b9d1c1fe65044.png",
+    "static/media/kitchen.png": "/guest-house/static/media/kitchen.3ad92d6f53270c81c8a8.png",
+    "static/media/shape.svg": "/guest-house/static/media/shape.7668e600caed9b979c333286bf74122c.svg",
+    "static/media/Logo.svg": "/guest-house/static/media/Logo.1eb0bb97d37078d628e557aefc6bfb80.svg",
+    "static/media/startsWhite.svg": "/guest-house/static/media/startsWhite.0f5a2a2de686185801ae733791607da7.svg",
+    "static/media/starts.svg": "/guest-house/static/media/starts.4abc58c8b7575f4416a6a1ab955e2645.svg",
+    "static/media/modernKitchen.svg": "/guest-house/static/media/modernKitchen.dc0faef8ddd9f9d45ff3584d41c0021f.svg",
+    "static/media/awayOptions.svg": "/guest-house/static/media/awayOptions.8d5e0aeb7d872c8929c9fccbb298cd9d.svg",
+    "static/media/outdoorPaths.svg": "/guest-house/static/media/outdoorPaths.42efe96e7759c4618cc807ee8bb06bac.svg",
+    "static/media/naturalScenery.svg": "/guest-house/static/media/naturalScenery.360192b96112c1a76717f9d5713bfc80.svg",
+    "static/media/facebook.svg": "/guest-house/static/media/facebook.55252f84808c9943501bc8e38315aba7.svg",
+    "static/media/bread.svg": "/guest-house/static/media/bread.729d2799d3f2a39d140ef8e9168b9880.svg",
+    "static/media/bathrooms.svg": "/guest-house/static/media/bathrooms.c85ac385fbd1904caf862e9d3ef7205e.svg",
+    "static/media/figure.svg": "/guest-house/static/media/figure.5718c5b92ec9e61b46caf112cbd69516.svg",
+    "static/media/CoffeeMaker.svg": "/guest-house/static/media/CoffeeMaker.c45899b6bb20fd2236976a1e063c02ee.svg",
+    "static/media/knifeFork.svg": "/guest-house/static/media/knifeFork.7b48028c16f19be71786ee5eca84cd0e.svg",
+    "static/media/wifi.svg": "/guest-house/static/media/wifi.a3071b597f101662b7bc3cd9b5f1eaa7.svg",
+    "static/media/storageSolutions.svg": "/guest-house/static/media/storageSolutions.2fbbfd15a3346137317b98a179e0d401.svg",
+    "static/media/telegram.svg": "/guest-house/static/media/telegram.645a7fceeeec75257dcf4873a95aef5c.svg",
+    "static/media/instagram.svg": "/guest-house/static/media/instagram.3348fbbc7ce59bd07bb56fef827415be.svg",
+    "static/media/cutlerySelection.svg": "/guest-house/static/media/cutlerySelection.d32141fbb95040a16e0fa9bd0af621ef.svg",
+    "static/media/beds.svg": "/guest-house/static/media/beds.0486fd8723227a263fe00b3b261e5003.svg",
+    "static/media/airConditioner.svg": "/guest-house/static/media/airConditioner.e60aa6cdcce182415126b90fc4117bfb.svg",
+    "static/media/bedrooms.svg": "/guest-house/static/media/bedrooms.45c5194d463f7bb7429895394128509c.svg",
+    "index.html": "/guest-house/index.html",
+    "static/media/frame.svg": "/guest-house/static/media/frame.1522ec95be4301ce2c65c492aa0bde71.svg",
+    "main.a659b6a6.css.map": "/guest-house/static/css/main.a659b6a6.css.map",
+    "main.0ba55bbc.js.map": "/guest-house/static/js/main.0ba55bbc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a659b6a6.css",
+    "static/js/main.0ba55bbc.js"
+  ]
+}
