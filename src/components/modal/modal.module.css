@@ -1,0 +1,55 @@
+.modal {
+  height: 100vh;
+  width: 100vw;
+  background-color: rgba(0, 0, 0, 0.4);
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.modalDisabled {
+  display: none;
+}
+
+.content {
+  position: relative;
+  padding: 20px;
+  border: 6px solid #bfe2ff;
+  border-radius: 12px;
+  background-color: white;
+  height: 200px;
+  width: 400px;
+}
+
+.closeX {
+  position: absolute;
+  left: 100%;
+  top: -16%;
+  cursor: pointer;
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border: 7px solid #f56b00;
+  background: linear-gradient(
+      45deg,
+      rgba(0, 0, 0, 0) 0%,
+      rgba(0, 0, 0, 0) 43%,
+      #fff 45%,
+      #fff 55%,
+      rgba(0, 0, 0, 0) 57%,
+      rgba(0, 0, 0, 0) 100%
+    ),
+    linear-gradient(
+      135deg,
+      #f56b00 0%,
+      #f56b00 43%,
+      #fff 45%,
+      #fff 55%,
+      #f56b00 57%,
+      #f56b00 100%
+    );
+}

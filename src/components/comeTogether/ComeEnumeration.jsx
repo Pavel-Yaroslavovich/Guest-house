@@ -1,8 +1,8 @@
 import styles from "./comeTogether.module.css";
-import wifi from "./icon/comeTogether/wifi.svg";
-import bread from "./icon/comeTogether/bread.svg";
-import figure from "./icon/comeTogether/figure.svg";
-import knifeFork from "./icon/comeTogether/knifeFork.svg";
+import wifi from "../icon/comeTogether/wifi.svg";
+import bread from "../icon/comeTogether/bread.svg";
+import figure from "../icon/comeTogether/figure.svg";
+import knifeFork from "../icon/comeTogether/knifeFork.svg";
 
 const ComeEnumeration = () => {
   const enumeration = [

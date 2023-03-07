@@ -1,5 +1,5 @@
 import styles from "./guestHouse.module.css";
-import kitchenImg from "./icon/kitchen.png";
+import kitchenImg from "../icon/kitchen.png";
 
 const GuestHouse = () => {
   return (

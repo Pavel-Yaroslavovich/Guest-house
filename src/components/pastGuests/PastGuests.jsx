@@ -1,6 +1,6 @@
 import styles from "./pastGuests.module.css";
 import PastCardBlock from "./PastCardBlock";
-import tableImg from "./icon/table.png";
+import tableImg from "../icon/table.png";
 
 const PastGuests = () => {
   return (

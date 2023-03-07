@@ -1,3 +1,36 @@
+.imgFon {
+  position: relative;
+  background-image: url("../icon/landscapes.png");
+  width: 1440px;
+  height: 800px;
+}
+
+.textBlock {
+  font-family: "Montserrat";
+  position: absolute;
+  top: 30%;
+  left: 120px;
+  right: 120px;
+  color: #ffffff;
+  text-align: center;
+}
+
+.title {
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 53px;
+  margin: 34px 0;
+}
+
+.subtitle {
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  margin-top: 0;
+  margin-bottom: 113px;
+  text-transform: uppercase;
+}
+
 .containerText {
   max-width: 1440px;
   padding-top: 100px;

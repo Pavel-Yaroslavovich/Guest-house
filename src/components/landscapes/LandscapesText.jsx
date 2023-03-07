@@ -1,4 +1,4 @@
-import styles from "./landscapesText.module.css";
+import styles from "./landscapes.module.css";
 
 const LandscapesText = () => {
   return (

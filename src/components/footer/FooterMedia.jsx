@@ -1,7 +1,7 @@
 import styles from "./footer.module.css";
-import telegram from "./icon/footerMedia/telegram.svg";
-import facebook from "./icon/footerMedia/facebook.svg";
-import instagram from "./icon/footerMedia/instagram.svg";
+import telegram from "../icon/footerMedia/telegram.svg";
+import facebook from "../icon/footerMedia/facebook.svg";
+import instagram from "../icon/footerMedia/instagram.svg";
 
 const FooterMedia = () => {
   return (

@@ -1,7 +1,7 @@
 import styles from "./sleeping.module.css";
-import bedsImg from "./icon/beds.svg";
-import bedroomsImg from "./icon/bedrooms.svg";
-import bathroomsImg from "./icon/bathrooms.svg";
+import bedsImg from "../icon/beds.svg";
+import bedroomsImg from "../icon/bedrooms.svg";
+import bathroomsImg from "../icon/bathrooms.svg";
 
 const Furniture = () => {
   const furniture = [

@@ -1,6 +1,6 @@
 import styles from "./pastGuests.module.css";
-import start from "./icon/starts.svg";
-import startWhile from "./icon/startsWhite.svg";
+import start from "../icon/starts.svg";
+import startWhile from "../icon/startsWhite.svg";
 
 const PastCardBlock = () => {
   const arrCard = [

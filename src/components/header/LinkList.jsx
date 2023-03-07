@@ -1,4 +1,4 @@
-import styles from "./linkList.module.css";
+import styles from "./header.module.css";
 
 const LinkList = () => {
   const linkArr = [

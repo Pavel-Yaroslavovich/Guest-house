@@ -1,11 +1,11 @@
-import kitchen from "./icon/perfectEscape/modernKitchen.svg";
-import outdoor from "./icon/perfectEscape/outdoorPaths.svg";
-import coffee from "./icon/perfectEscape/CoffeeMaker.svg";
-import natural from "./icon/perfectEscape/naturalScenery.svg";
-import air from "./icon/perfectEscape/airConditioner.svg";
-import storage from "./icon/perfectEscape/storageSolutions.svg";
-import cutlery from "./icon/perfectEscape/cutlerySelection.svg";
-import takeAway from "./icon/perfectEscape/awayOptions.svg";
+import kitchen from "../icon/perfectEscape/modernKitchen.svg";
+import outdoor from "../icon/perfectEscape/outdoorPaths.svg";
+import coffee from "../icon/perfectEscape/CoffeeMaker.svg";
+import natural from "../icon/perfectEscape/naturalScenery.svg";
+import air from "../icon/perfectEscape/airConditioner.svg";
+import storage from "../icon/perfectEscape/storageSolutions.svg";
+import cutlery from "../icon/perfectEscape/cutlerySelection.svg";
+import takeAway from "../icon/perfectEscape/awayOptions.svg";
 
 const perfectArrObject = [
   {

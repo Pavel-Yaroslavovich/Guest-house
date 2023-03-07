@@ -1,6 +1,6 @@
 import styles from "./landscapes.module.css";
-import logo from "./icon/shape.svg";
-import frame from "./icon/frame.svg";
+import logo from "../icon/shape.svg";
+import frame from "../icon/frame.svg";
 import LandscapesText from "./LandscapesText";
 
 const Landscapes = () => {
