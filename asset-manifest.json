@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/guest-house/static/css/main.a659b6a6.css",
-    "main.js": "/guest-house/static/js/main.0ba55bbc.js",
+    "main.css": "/guest-house/static/css/main.340ddfca.css",
+    "main.js": "/guest-house/static/js/main.6e3fbada.js",
     "static/media/landscapes.png": "/guest-house/static/media/landscapes.09fd2d18ca2e2578ea5a.png",
     "static/media/table.png": "/guest-house/static/media/table.9d62f11b9d1c1fe65044.png",
     "static/media/kitchen.png": "/guest-house/static/media/kitchen.3ad92d6f53270c81c8a8.png",
@@ -29,11 +29,11 @@
     "static/media/bedrooms.svg": "/guest-house/static/media/bedrooms.45c5194d463f7bb7429895394128509c.svg",
     "index.html": "/guest-house/index.html",
     "static/media/frame.svg": "/guest-house/static/media/frame.1522ec95be4301ce2c65c492aa0bde71.svg",
-    "main.a659b6a6.css.map": "/guest-house/static/css/main.a659b6a6.css.map",
-    "main.0ba55bbc.js.map": "/guest-house/static/js/main.0ba55bbc.js.map"
+    "main.340ddfca.css.map": "/guest-house/static/css/main.340ddfca.css.map",
+    "main.6e3fbada.js.map": "/guest-house/static/js/main.6e3fbada.js.map"
   },
   "entrypoints": [
-    "static/css/main.a659b6a6.css",
-    "static/js/main.0ba55bbc.js"
+    "static/css/main.340ddfca.css",
+    "static/js/main.6e3fbada.js"
   ]
 }
